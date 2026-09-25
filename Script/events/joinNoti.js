@@ -1222,7 +1222,7 @@ ${botPrefix}Admin
 ➤𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩: https://wa.me/8801933699293
 
 ❖⋆═══════════════════════⋆❖
-          𝐁𝐨𝐭 𝐎𝐰𝐧𝐞𝐫 ➢ 𝐒𝐇𝐀𝐇𝐀𝐃𝐀𝐓 𝐒𝐀𝐇𝐔`;
+          𝐁𝐨𝐭 𝐎𝐰𝐧𝐞𝐫 ➢ SUHAN_BABY_OKY`;
 
             return api.sendMessage(
                 {
